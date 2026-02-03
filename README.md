@@ -1,7 +1,11 @@
 # Hi, I'm Ayush Sinha! 👋
 
 I am a passionate B.Tech CS student at Aryan Institute of Engineering and Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
+ 
+# ■ My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 
 ### :fire: My Stats :
