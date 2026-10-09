@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 -->
 
   ---
-[![](https://komarev.com/ghpvc/?username=ayushsinha02003&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ayushsinha02003&icon=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
