@@ -20,7 +20,6 @@ I am a passionate B.Tech CS student at Aryan Institute of Engineering and Techno
 
 
 
-
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
@@ -36,13 +35,6 @@ I am a passionate B.Tech CS student at Aryan Institute of Engineering and Techno
   - Solving problems with recursion, dynamic programming, and greedy algorithms.
   - Exploring graphs, search/sort algorithms, and advanced data structures.
   - Practicing on LeetCode, Codeforces, and HackerRank to strengthen problem-solving skills.
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushsinha02003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushsinha02003&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
  
  ## 🏆 Achievements
